@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation verified="yes">
+  <folder>JPEGImages</folder>
+  <filename>20353.jpg</filename>
+  <path>/home/lab/libr/obb-RetinaNet/wave_dataset/JPEGImages/20353.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>wake</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>246.7287</cx>
+      <cy>251.1221</cy>
+      <w>200.5053</w>
+      <h>118.6673</h>
+      <angle>0.14</angle>
+    </robndbox>
+  <bndbox><xmin>139</xmin><ymin>178</ymin><xmax>354</xmax><ymax>324</ymax></bndbox></object>
+</annotation>

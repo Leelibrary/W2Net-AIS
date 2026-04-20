@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: torch-warmup-lr
+Version: 1.0.0
+Summary: a warpper for pytorch lr_scheduler that support warmup learning rate
+Author: Le H. Duong
+Keywords: learning_rate warmup pytorch
+License-File: LICENSE
+Requires-Dist: torch
