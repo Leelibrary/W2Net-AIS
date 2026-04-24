@@ -7,7 +7,7 @@
 
 Two self-constructed datasets are involved in this work:
 
-- **OWA dataset**: used for wake perception and model training.
+- **OWA dataset**: used for wake perception and model training. (Multitask)
 - **STWV dataset**: used for validation of ship kinematic retrieval.
 
 These datasets are self-constructed for this study and will be publicly released after the paper is accepted.
