@@ -1,6 +1,6 @@
 
 # Paper
-“Kelvin Wake-Aware Multi-Agent Network for Ship Kinematic Information Retrieval from Weak Optical Signatures”
+“Kelvin Wake-Aware Multi-Stream Network for Ship Kinematic Information Retrieval from Weak Optical Signatures”
 
 
 # Datasets
